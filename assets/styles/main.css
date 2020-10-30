@@ -26,6 +26,7 @@ main {
 
 .content__logo {
   max-width: 600px;
+  width: 100%;
 }
 
 .content__text {
